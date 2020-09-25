@@ -1,0 +1,7 @@
+/original
+/*.sublime-workspace
+global.conf
+.DS_Store
+.stir.sh
+theme.conf
+*.bak
